@@ -1,6 +1,8 @@
 ******** README ********
 
-
+32 bit ALU design, that includes a fast adder, and a multiplier, subtraction (using adder), logical left shift, logical right shift, arithmetic right shift, comparison, bitwise AND, OR, NOT, XOR. 
+It will take two 32 bit inputs, a control input that decides which operation to be performed. One 32 bit output, and 5 one bit outputs (carry, overflow, lessthan,  equal, and zero)
+For multiplier also, the output is 32 bit. If output is more than 32 bits, overflow bit is one.
 
 *** Features ***
 1) Fast adder:			control 0
