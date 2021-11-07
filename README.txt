@@ -49,8 +49,8 @@ and gives 6 outputs:
 	else:			lessthan = 0
 
 5) equalto:
-	if control = 10:	lessthan = 1 if A = B. Else, lessthan = 0.
-	else:			lessthan = 0
+	if control = 10:	equalto = 1 if A = B. Else, lessthan = 0.
+	else:			equalto = 0
 
 6) zero:
 	= 1 if S = 0 and control != 10
